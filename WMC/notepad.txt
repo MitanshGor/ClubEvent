@@ -1,0 +1,79 @@
+
+
+Admin Rights :
+page --> admin info
+
+			ADD ADMIN
+			My details
+			All admins
+						
+			
+
+
+			crud operation on club
+			delete=disable
+			update
+			add
+			
+
+
+			registered users :						
+						page  ---> perticluar user info
+			NON-registered users :						
+						page  ---> perticluar user info
+			
+
+			
+							
+
+CLUB RIGHTS :
+		CRUD ON EVENTS			
+			delete=disable
+			update
+			add
+
+		MEMBERS OF CLUB
+				
+
+View Club  -------------> 
+						every clubs info
+						Events 
+							OPEN TO ALL / CLUB MEMBER SPECIFIC
+							STARTING REGISTRATION DATE
+							ENDING REGISTRATION DATE
+							
+							Event Name
+							Event Stat and end Date
+							Event Time start and end
+							Discription
+							HeroImage  ---> compulsury
+							ExtraImg if want
+							howcome nice . kale submit karvanu che ne?
+to 
+
+					
+
+
+
+
+
+
+															THIS MUCH IS LEFT 
+
+
+														
+		
+															○ Analytics page - Club event stats and participation stats [brownie].
+															A try karu karva
+															○ Announcement page - announcements for their upcoming events. ana mate schduler joise
+															This can be done using select query display all the events which are going to occur in this month. undeerstand like this is done.
+															
+															> only for club and for everyone.
+															> listner / scheduler
+
+
+
+
+															
+										○ Auto generating event analytics reports after the end of an event
+				
